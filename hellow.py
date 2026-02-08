@@ -1,7 +1,7 @@
 print("Hello world\n" *3)
 
 uziar = [1,3,5,6,8]
-for i in range(2):
+for i in range(5):
     if i <= 0:
         print("That's not what i expected")
     else:
